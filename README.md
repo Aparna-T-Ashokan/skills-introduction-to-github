@@ -22,5 +22,5 @@ Hi, I'm Aparna. You might recognize me as GitHub's mascot.
 </details>
 
 |heading 1|Heading2|Heading3|
-|:--------|--------|-------:|
-|first    | cell   | cell   |
+|:--------|--:---:--|-------:|
+|first    | cell    | cell   |
