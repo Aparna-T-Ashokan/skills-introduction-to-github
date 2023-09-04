@@ -20,3 +20,7 @@ Hi, I'm Aparna. You might recognize me as GitHub's mascot.
 |     3| SQL       |
 
 </details>
+
+|heading 1|Heading2|Heading3|
+|:--------|---:----|-------:|
+|first cell|second cell|third cell|
